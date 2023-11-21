@@ -16,7 +16,8 @@ These scripts are intended for responsible and legal use. Unauthorized or malici
 
 ### Prerequisites
 
-- [List any prerequisites or dependencies]
+- A flipper zero device is required.
+- Most scripts are written for MACOS
 
 ### Installation
 
